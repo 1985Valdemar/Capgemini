@@ -1,6 +1,6 @@
 <h1 align="center"> Capgemini-Curso 💻 </h1>
 
-<p align="center"> <a href="https://web.dio.me/home" target="_blank">DIO</a> - Talento Angular - <a href="https://www.linkedin.com/in/valdemar-teider-5336b394/" target="_blank">Skill</a> - <a href="http://capgeminischool.brazilsouth.cloudapp.azure.com/" target="_blank>capgeminischool</a> </p>
+<p align="center"> <a href="https://web.dio.me/home" target="_blank">DIO</a> - Talento Angular - <a href="https://www.linkedin.com/in/valdemar-teider-5336b394/" target="_blank">Skill</a> - <a href="http://capgeminischool.brazilsouth.cloudapp.azure.com/" target="_blank">capgeminischool</a> </p>
 
 <p align="center">
 <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
