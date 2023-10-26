@@ -6,8 +6,8 @@ Injectable({
 })
 
 export const authGuard: CanActivateFn = (route, state) => {
-  
   route: ActivatedRouteSnapshot
   state: RouterStateSnapshot 
-  return false;
+    return false;
+
 };
