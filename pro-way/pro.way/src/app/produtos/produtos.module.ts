@@ -7,6 +7,7 @@ import { DetalheProdutoComponent } from './detalhe-produto/detalhe-produto.compo
 import { FormsModule } from '@angular/forms';
 
 
+
 @NgModule({
   declarations: [
     ProdutosComponent,

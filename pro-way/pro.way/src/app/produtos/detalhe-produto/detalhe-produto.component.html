@@ -8,12 +8,12 @@
         <p>Estoque Disponível</p>
         <label>
             Quantidade:
-            <input type="number"[(ngModel)]="quantidade">
+            <input type="number"[(ngModel)]="quantidade" min="1">
             Unidade(s)
         </label>
         <p class="product__avaiability">
             {{ produto?.quantidadeEstoque }} Unidade(s) em Estoque
         </p>
-        <button>Adicionar ao Carrinho</button>
+        <button (click)="adicionarAoCarrinho()">Adicionar ao Carrinho</button>
     </div>
 </section>

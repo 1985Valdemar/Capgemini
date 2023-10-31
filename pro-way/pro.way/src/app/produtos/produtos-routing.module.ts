@@ -6,8 +6,8 @@ import { NaoEncontradoComponent } from '../nao-encontrado/nao-encontrado.compone
 
 const routes: Routes = [
   { path: '', component: ProdutosComponent },
-  { path:":id", component: DetalheProdutoComponent},
-  { path: "**", component: NaoEncontradoComponent}
+  { path:':id', component: DetalheProdutoComponent},
+  { path: '**', component: NaoEncontradoComponent}
 ];
 
 @NgModule({
